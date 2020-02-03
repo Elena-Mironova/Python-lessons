@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
 name = 'Leo'
 age = 30
 # 1. конкатенация
